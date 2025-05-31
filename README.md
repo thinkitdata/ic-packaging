@@ -1,5 +1,6 @@
 # ic-packaging
-Packaging Fundamentals of Design and Testing
+VSD Packaging Fundamentals of Design and Testing (https://www.vlsisystemdesign.com/packaging/)
+
 Modules 3 & 5 completed lab images and AEDT project files
 
 Module 3 - Lab-3.png / FlipChip_BGA.aedt
